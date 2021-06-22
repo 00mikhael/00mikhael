@@ -6,3 +6,7 @@
 -   :monocle_face: Interested in everything **Front-End Related**
 -   :seedling: Currently learning **Web animations & interaction design**
 -   :heart: Open Source
+
+## ⚡ Domains:
+- Front-End Development
+- Serverless Functions
