@@ -1,11 +1,8 @@
-### Hi there 👋
+![Hi, I'm Michael 👋 I'm a 🚀 Frontend developer 🚀 ](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
 
+<!--
+how to make this gif ?
 
-I'm Michael Nwankwo
-
-- 🌱 I’m currently learning reactjs
-- 👯 I’m looking to collaborate on frontend web projects
-- 🤔 I’m looking for a job as a frontend developer
-- 💬 Ask me about html, css and javascript
-- 📫 How to reach me: twitter.com/00mikhael
-
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
+-->
