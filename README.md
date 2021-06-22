@@ -7,7 +7,7 @@
 #### A front-end developer with a passion for learning & building things on the web
 
 -   :computer: I build web applications with **React**
--   :monocle_face: Interested in everything **Front-End Related**
+-   :monocle_face: Interested in everything **front-end related**
 -   :seedling: Currently learning **Web animations & interaction design**
 -   :heart: Open Source
 
