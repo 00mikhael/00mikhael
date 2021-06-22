@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-#### A front-end developer & tech enthusiast with a passion for building and learning new technologies
+#### A front-end developer with a passion for learning & building things on the web
 
 -   :computer: I build web applications with **React**
 -   :monocle_face: Interested in everything **Front-End Related**
