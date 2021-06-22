@@ -17,4 +17,4 @@
 - Serverless Functions
 
 ## Stats ~ 🚨
-![00mikhael's github stats](https://github-readme-stats.vercel.app/api?username=00mikhael&show_icons=true&hide_border=true)
+![M's github stats](https://github-readme-stats.vercel.app/api?username=00mikhael&show_icons=true&hide_border=true)
