@@ -4,11 +4,11 @@
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
+#### A front-end developer with a passion for learning & building things on the web
+
 <br>
 <img align='right' src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width='200'>
 <br />
-
-#### A front-end developer with a passion for learning & building things on the web
 
 -   :computer: I build web applications with **React**
 -   :monocle_face: Interested in everything **front-end related**
