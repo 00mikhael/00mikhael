@@ -6,7 +6,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Senior-yellow)
 
 #### A front-end developer with a passion for learning & building things on the web
 
